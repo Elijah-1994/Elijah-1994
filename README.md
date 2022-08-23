@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elijah-1994
-- 👀 I’m interested in ...Python Coding 
-- 🌱 I’m currently learning ...at AiCore
+- 👀 I’m interested in Python Coding 
+- 🌱 I’m currently learning at AiCore
 - 💞️ I’m looking to collaborate on ...not to sure yet
 - 📫 How to reach me ...elijah.salami94@gmail.com
 
