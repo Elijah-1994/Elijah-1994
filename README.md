@@ -1,4 +1,4 @@
-- 👨‍🎓 Graduate at AiCore
+- 👨‍🎓 Data Science and Machine Learning Graduate at AiCore
 - 💻 Seeking junior machine learning role
 - 😍 Pytorch and Sklearn enthusiast
 - 📫 How to reach me - elijah.salami94@gmail.com 
