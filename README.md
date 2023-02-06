@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Elijah-1994
+- 👨‍🎓 Graduate at AiCore
+- 💻 Seeking junior machine learning role
+- 😍 Pytorch and Sklearn enthusiast
 - 👀 I’m interested in Python Coding 
 - 🌱 I’m currently learning at AiCore
 - 💞️ I’m looking to collaborate on ...not to sure yet
