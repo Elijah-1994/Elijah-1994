@@ -1,6 +1,6 @@
 - 👨‍🎓 Data Science and Machine Learning Graduate at AiCore
 - 💻 Seeking a junior machine learning role
-- 🔧 Skills include proficiency(<1 year) using - boto3 | joblib | matplotlib | OpenCV | NumPy | pillow | ploty |  Pandas | pillow | Python | TensorFlow 
+- 🔧 Skills include proficiency(<1 year) using - boto3 | joblib | matplotlib | OpenCV | NumPy | ploty |  Pandas | pillow | Python | TensorFlow 
 - 😍 Pytorch and Sklearn machine learning enthusiast
 - 📫 How to reach me - elijah.salami94@gmail.com 
 <!---
